@@ -10,7 +10,7 @@ A simple [web application](https://en.wikipedia.org/wiki/Web_application) simila
 Clone this repository and open the `index.html` in your favorite browser!
 
 ```text
-git clone https://github.com/cs280fa21/rock-paper-scissors.git
-cd rock-paper-scissors
+git clone https://github.com/cs280fa21/sleeptime-app.git
+cd sleeptime-app
 open -a "Google Chrome" index.html # works on macOS
 ```
